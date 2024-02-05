@@ -4,23 +4,23 @@ This repository contains SQL queries, thanks to which we can delve into the worl
 
 ## SQL Queries
 1. All Games:
-This query informs us about how many matches were played that season.
+* This query informs us about how many matches were played that season.
 2. Average Goals Per Game:
-This query calculates the average number of goals per match.
+* This query calculates the average number of goals per match.
 3. Goals Scored:
-This query calculates the total number of goals scored in the league.
+* This query calculates the total number of goals scored in the league.
 4. Percentage Of Won Games By Place:
-This query calculates the winning percentage by location of the match. Additionally, we can find out what percentage of matches ended in a draw.
+* This query calculates the winning percentage by location of the match. Additionally, we can find out what percentage of matches ended in a draw.
 5. Games Result By Team:
-This query informs us about how many matches a given team won, lost or drew.
+* This query informs us about how many matches a given team won, lost or drew.
 6. Most Common Game Result:
-In this case, we find out what was the most common result in the English Premiere League
+* In this case, we find out what was the most common result in the English Premiere League
 7. Goals Per Game Hour:
-This query calculates the number of games per hour. Additionally, it also calculates the percentage of goals scored in a given hour.
+* This query calculates the number of games per hour. Additionally, it also calculates the percentage of goals scored in a given hour.
 8. Corr Between Possession And Goals:
-This query calculates the correlation between ball possession and the number of goals scored.
+* This query calculates the correlation between ball possession and the number of goals scored.
 9. Goals By Game:
-Thanks to this query, we find out how many goals a given team scored and conceded. We can also check the average number of goals scored and conceded per match.
+* Thanks to this query, we find out how many goals a given team scored and conceded. We can also check the average number of goals scored and conceded per match.
 
 ## How to Use
 Clone the repository to your local machine.
