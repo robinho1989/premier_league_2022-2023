@@ -23,9 +23,9 @@ This repository contains SQL queries, thanks to which we can delve into the worl
 * Thanks to this query, we find out how many goals a given team scored and conceded. We can also check the average number of goals scored and conceded per match.
 
 ## How to Use
-* Clone the repository to your local machine.
-* Execute the SQL queries using your preferred database management system.
-* Explore the results and visualize the data as needed.
+1. Clone the repository to your local machine.
+2. Execute the SQL queries using your preferred database management system.
+3. Explore the results and visualize the data as needed.
 
 ## Contributions
 Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
